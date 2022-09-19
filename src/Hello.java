@@ -4,5 +4,6 @@ public class Hello {
         
         // I made a change - Patrick 14:42 
         // This is my change
+        // Kommentar
     }
 }
