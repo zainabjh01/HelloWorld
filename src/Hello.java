@@ -7,6 +7,6 @@ public class Hello {
         // Kommentar
         // Ændring
         //h
-        //Change
+        //Changes
     }
 }
